@@ -1,2 +1,9 @@
-Hello world
+Hello world!
 First repository
+<<<<<<master
+Some changes
+===========
+Modified in develop branch
+Test
+New changes
+>>>>>>>develop
